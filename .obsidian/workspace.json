@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3ab231e4b07a6f35",
+        "id": "d018d4f572f488d1",
         "type": "tabs",
         "children": [
           {
-            "id": "30fd695eb48ad1ab",
+            "id": "638f007a9e0f5a38",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -164,13 +164,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "30fd695eb48ad1ab",
+  "active": "638f007a9e0f5a38",
   "lastOpenFiles": [
+    "teste.canvas",
+    "teste.md",
+    "Sem título 1.canvas",
+    "node_modules/mkdirp/CHANGELOG.md",
+    "node_modules/@types/istanbul-reports/README.md",
     "node_modules/ms/license.md",
     "node_modules/@cspotcode/source-map-support/node_modules/@jridgewell/trace-mapping/README.md",
     "node_modules/co/History.md",
-    "README.md",
-    "Sem título.canvas",
-    "teste.md"
+    "README.md"
   ]
 }
