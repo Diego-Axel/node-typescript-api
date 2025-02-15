@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d018d4f572f488d1",
+        "id": "8006142cadefe38f",
         "type": "tabs",
         "children": [
           {
-            "id": "638f007a9e0f5a38",
+            "id": "21e6a23931895989",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -164,14 +164,41 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "638f007a9e0f5a38",
+  "active": "21e6a23931895989",
   "lastOpenFiles": [
+    "node_modules/micromatch/README.md",
+    "node_modules/normalize-path/README.md",
+    "node_modules/ms/license.md",
+    "test/functional/forecast.test.ts",
+    "test/functional",
+    "node_modules/object-inspect/test/err.js",
+    "node_modules/object-inspect/test/deep.js",
+    "node_modules/object-inspect/test/fakes.js",
+    "node_modules/object-inspect/test/circular.js",
+    "node_modules/object-inspect/example/fn.js",
+    "node_modules/object-inspect/example/all.js",
+    "node_modules/object-inspect/test/element.js",
+    "node_modules/object-inspect/example/circular.js",
+    "node_modules/mime-types/README.md",
+    "node_modules/mime-types/HISTORY.md",
+    "node_modules/mime-db/README.md",
+    "node_modules/mime-db/HISTORY.md",
+    "node_modules/hexoid/readme.md",
+    "node_modules/methods/README.md",
+    "node_modules/methods/HISTORY.md",
+    "node_modules/gopd/CHANGELOG.md",
+    "node_modules/get-intrinsic/CHANGELOG.md",
+    "node_modules/get-intrinsic/README.md",
+    "node_modules/fast-safe-stringify/readme.md",
+    "node_modules/fast-safe-stringify/CHANGELOG.md",
+    "node_modules/cookiejar/readme.md",
+    "node_modules/component-emitter/Readme.md",
+    "node_modules/human-signals/README.md",
     "teste.canvas",
     "teste.md",
     "Sem título 1.canvas",
     "node_modules/mkdirp/CHANGELOG.md",
     "node_modules/@types/istanbul-reports/README.md",
-    "node_modules/ms/license.md",
     "node_modules/@cspotcode/source-map-support/node_modules/@jridgewell/trace-mapping/README.md",
     "node_modules/co/History.md",
     "README.md"
